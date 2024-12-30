@@ -43,3 +43,4 @@ First get the directory on your mac - you might need to install some stuff (like
 
 Then run ```sudo python3 beats.py``` and enjoy!
 
+I've also included the code I used to create the piano.
